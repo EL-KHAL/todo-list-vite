@@ -5,7 +5,7 @@
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/EL-KHAL/todo-list-vite.git
 ```
 
 Go to the project directory
